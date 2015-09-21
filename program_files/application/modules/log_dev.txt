@@ -1,0 +1,81 @@
+log development
+21/06 = - membuat login dan menentukan session;
+		- edit route.php untuk multisite;
+22/06 = - menambahkan mode readwrite;
+	- pembuatan logfile;
+	- penambahan bootstrap login;
+26/06 =	- pembuatan language tahap login;
+	- pembuatan forgot password untuk admin contoller;
+	- pembuatan emailTemplate_helper;
+27/06 =	- pembuatan helper function untuk send email verivication;
+28/06 = - revisi forgot password page;
+	+ pending untuk format email(semua); 
+	- penambahan fungsi ajax validasi register;
+02/07 = - pembuatan functions_helper pada helpers
+07/07 = - pembuatan helper language untuk header;
+		- penambahan menu;
+12/07 =	- function dashboard
+		- function segment_home_dashboard
+
+
+
+helpers::
+*) user_helper
+	- session() = load session ;
+	- get_login($item='all') = mendapatkan session login sesuai item;
+	- check_login() = jika is_login maka akan di redirect ke dashboard
+	- set_session($sess_name,$data) = set session dengan $data=(array)|(string) 
+	- unset_userdata($item='destroy') = unset_userdata jika item = destroy maka $sess->sess_destroy();
+	- get_sess_lang() untuk mendapatkan language saat ini return string;
+	- cur_lang($langName,$key) untuk mendapatkan bahasa dari suatu kata;
+	- send_email($data=array(),$type='FP')=untuk keterangan lihat bagian komentar pd file.
+	- send($sender,$data) = untuk mengirim setelah proses konfigurasi pada fungsi send_email.
+	- get_email_server_sender($type='FP') = untuk memilih alamat email server dg return email server;
+*) loader_helper
+	- js($path,$is_name=true) = load file js, jika is_name = false berarti load ke web lain.
+	- css($path,$is_name=true) = load file css, jika is_name = false berarti load ke web lain.
+	- form_validasi($config=array()) = config adalah sebagai rule dari form validasi ,return true jika form validasi run()=true
+
+*) view_helper
+	- head()
+	- footer()
+	- footer_template()
+	- template_view()
+	
+controllers::
+*) admin
+	- login() = halaman login;
+	- un() = untuk unset / destroy session;
+	- forgotPassword($email='') = untuk submit form dari forgot modal;
+	- dashboard() = halaman awal setelah login;
+	- register()= member baru; tp masih sampaivalidasi form jquery email.
+	- segment_home_dashboard() = merupakan hasil load dari dashboard view
+	
+	
+models::
+*) admin
+	- login() = validasi halaman login;
+	- forgotPassword($email='')= untuk proses konformasi forgot_password;
+	- register()= member baru;
+
+view ::
+*) admin 
+	- header;
+	- footer;
+	- login;
+	- dashboard;
+	- register;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
