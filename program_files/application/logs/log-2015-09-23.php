@@ -2453,3 +2453,1073 @@ INFO - 2015-09-23 00:55:39 --> Session: Class initialized using 'files' driver.
 INFO - 2015-09-23 00:55:39 --> Database Driver Class Initialized
 INFO - 2015-09-23 00:55:39 --> Controller Class Initialized
 ERROR - 2015-09-23 00:55:39 --> 404 Page Not Found: ../modules/cpanel/controllers/Cpanel/penawaran
+INFO - 2015-09-23 16:28:20 --> Config Class Initialized
+INFO - 2015-09-23 16:28:20 --> Hooks Class Initialized
+DEBUG - 2015-09-23 16:28:20 --> UTF-8 Support Enabled
+INFO - 2015-09-23 16:28:20 --> Utf8 Class Initialized
+INFO - 2015-09-23 16:28:20 --> URI Class Initialized
+DEBUG - 2015-09-23 16:28:20 --> No URI present. Default controller set.
+INFO - 2015-09-23 16:28:20 --> Router Class Initialized
+INFO - 2015-09-23 16:28:20 --> Output Class Initialized
+INFO - 2015-09-23 16:28:20 --> Security Class Initialized
+DEBUG - 2015-09-23 16:28:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 16:28:20 --> Input Class Initialized
+INFO - 2015-09-23 16:28:20 --> Language Class Initialized
+INFO - 2015-09-23 16:28:20 --> Language Class Initialized
+INFO - 2015-09-23 16:28:20 --> Config Class Initialized
+INFO - 2015-09-23 16:28:20 --> Loader Class Initialized
+INFO - 2015-09-23 16:28:20 --> Helper loaded: url_helper
+INFO - 2015-09-23 16:28:20 --> Helper loaded: view_helper
+INFO - 2015-09-23 16:28:20 --> Helper loaded: user_helper
+INFO - 2015-09-23 16:28:20 --> Helper loaded: html_helper
+INFO - 2015-09-23 16:28:20 --> Helper loaded: loader_helper
+INFO - 2015-09-23 16:28:20 --> Helper loaded: utilities_helper
+INFO - 2015-09-23 16:28:20 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-23 16:28:20 --> Database Driver Class Initialized
+ERROR - 2015-09-23 16:28:20 --> Severity: Warning --> mysqli::real_connect(): (42000/1049): Unknown database 'dev_cpanel' /home/DATA/PROJECT/WEB/public_html/DEV/Xy/program_files/system/database/drivers/mysqli/mysqli_driver.php 135
+ERROR - 2015-09-23 16:28:20 --> Unable to connect to the database
+INFO - 2015-09-23 16:28:20 --> Language file loaded: language/english/db_lang.php
+INFO - 2015-09-23 16:29:10 --> Config Class Initialized
+INFO - 2015-09-23 16:29:10 --> Hooks Class Initialized
+DEBUG - 2015-09-23 16:29:10 --> UTF-8 Support Enabled
+INFO - 2015-09-23 16:29:10 --> Utf8 Class Initialized
+INFO - 2015-09-23 16:29:10 --> URI Class Initialized
+DEBUG - 2015-09-23 16:29:10 --> No URI present. Default controller set.
+INFO - 2015-09-23 16:29:10 --> Router Class Initialized
+INFO - 2015-09-23 16:29:10 --> Output Class Initialized
+INFO - 2015-09-23 16:29:10 --> Security Class Initialized
+DEBUG - 2015-09-23 16:29:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 16:29:10 --> Input Class Initialized
+INFO - 2015-09-23 16:29:10 --> Language Class Initialized
+INFO - 2015-09-23 16:29:10 --> Language Class Initialized
+INFO - 2015-09-23 16:29:10 --> Config Class Initialized
+INFO - 2015-09-23 16:29:10 --> Loader Class Initialized
+INFO - 2015-09-23 16:29:10 --> Helper loaded: url_helper
+INFO - 2015-09-23 16:29:10 --> Helper loaded: view_helper
+INFO - 2015-09-23 16:29:10 --> Helper loaded: user_helper
+INFO - 2015-09-23 16:29:10 --> Helper loaded: html_helper
+INFO - 2015-09-23 16:29:10 --> Helper loaded: loader_helper
+INFO - 2015-09-23 16:29:10 --> Helper loaded: utilities_helper
+INFO - 2015-09-23 16:29:10 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-23 16:29:10 --> Database Driver Class Initialized
+INFO - 2015-09-23 16:29:10 --> Controller Class Initialized
+DEBUG - 2015-09-23 16:29:10 --> Cpanel MX_Controller Initialized
+INFO - 2015-09-23 16:29:10 --> Model Class Initialized
+DEBUG - 2015-09-23 16:29:10 --> File loaded: /home/DATA/PROJECT/WEB/public_html/DEV/Xy/program_files/application/modules/cpanel/models/Cmodel.php
+INFO - 2015-09-23 16:29:10 --> Model Class Initialized
+ERROR - 2015-09-23 16:29:10 --> Severity: Warning --> Illegal string offset 'ID' /home/DATA/PROJECT/WEB/public_html/DEV/Xy/program_files/application/modules/cpanel/models/Cmodel.php 11
+ERROR - 2015-09-23 16:29:10 --> Severity: Notice --> Uninitialized string offset: 0 /home/DATA/PROJECT/WEB/public_html/DEV/Xy/program_files/application/modules/cpanel/models/Cmodel.php 11
+INFO - 2015-09-23 16:29:10 --> Config Class Initialized
+INFO - 2015-09-23 16:29:10 --> Hooks Class Initialized
+DEBUG - 2015-09-23 16:29:10 --> UTF-8 Support Enabled
+INFO - 2015-09-23 16:29:10 --> Utf8 Class Initialized
+INFO - 2015-09-23 16:29:10 --> URI Class Initialized
+INFO - 2015-09-23 16:29:10 --> Router Class Initialized
+INFO - 2015-09-23 16:29:10 --> Output Class Initialized
+INFO - 2015-09-23 16:29:10 --> Security Class Initialized
+DEBUG - 2015-09-23 16:29:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 16:29:10 --> Input Class Initialized
+INFO - 2015-09-23 16:29:10 --> Language Class Initialized
+ERROR - 2015-09-23 16:29:10 --> 404 Page Not Found: /index
+INFO - 2015-09-23 16:29:18 --> Config Class Initialized
+INFO - 2015-09-23 16:29:18 --> Hooks Class Initialized
+DEBUG - 2015-09-23 16:29:18 --> UTF-8 Support Enabled
+INFO - 2015-09-23 16:29:18 --> Utf8 Class Initialized
+INFO - 2015-09-23 16:29:18 --> URI Class Initialized
+INFO - 2015-09-23 16:29:18 --> Router Class Initialized
+INFO - 2015-09-23 16:29:18 --> Output Class Initialized
+INFO - 2015-09-23 16:29:18 --> Security Class Initialized
+DEBUG - 2015-09-23 16:29:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 16:29:18 --> Input Class Initialized
+INFO - 2015-09-23 16:29:18 --> Language Class Initialized
+INFO - 2015-09-23 16:29:18 --> Language Class Initialized
+INFO - 2015-09-23 16:29:18 --> Config Class Initialized
+INFO - 2015-09-23 16:29:18 --> Loader Class Initialized
+INFO - 2015-09-23 16:29:18 --> Helper loaded: url_helper
+INFO - 2015-09-23 16:29:18 --> Helper loaded: view_helper
+INFO - 2015-09-23 16:29:18 --> Helper loaded: user_helper
+INFO - 2015-09-23 16:29:18 --> Helper loaded: html_helper
+INFO - 2015-09-23 16:29:18 --> Helper loaded: loader_helper
+INFO - 2015-09-23 16:29:18 --> Helper loaded: utilities_helper
+INFO - 2015-09-23 16:29:18 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-23 16:29:18 --> Database Driver Class Initialized
+INFO - 2015-09-23 16:29:18 --> Controller Class Initialized
+DEBUG - 2015-09-23 16:29:18 --> Auth MX_Controller Initialized
+INFO - 2015-09-23 16:29:18 --> Model Class Initialized
+DEBUG - 2015-09-23 16:29:18 --> File loaded: /home/DATA/PROJECT/WEB/public_html/DEV/Xy/program_files/application/modules/auth/models/Mauth.php
+INFO - 2015-09-23 16:29:18 --> Model Class Initialized
+DEBUG - 2015-09-23 16:29:18 --> File loaded: /home/DATA/PROJECT/WEB/public_html/DEV/Xy/program_files/application/modules/user_templates/views/header.php
+DEBUG - 2015-09-23 16:29:18 --> File loaded: /home/DATA/PROJECT/WEB/public_html/DEV/Xy/program_files/application/modules/auth/views/login_page.php
+DEBUG - 2015-09-23 16:29:18 --> File loaded: /home/DATA/PROJECT/WEB/public_html/DEV/Xy/program_files/application/modules/user_templates/views/footer.php
+INFO - 2015-09-23 16:29:18 --> Final output sent to browser
+DEBUG - 2015-09-23 16:29:18 --> Total execution time: 0.0452
+INFO - 2015-09-23 16:34:42 --> Config Class Initialized
+INFO - 2015-09-23 16:34:42 --> Hooks Class Initialized
+DEBUG - 2015-09-23 16:34:42 --> UTF-8 Support Enabled
+INFO - 2015-09-23 16:34:42 --> Utf8 Class Initialized
+INFO - 2015-09-23 16:34:42 --> URI Class Initialized
+INFO - 2015-09-23 16:34:42 --> Router Class Initialized
+INFO - 2015-09-23 16:34:42 --> Output Class Initialized
+INFO - 2015-09-23 16:34:42 --> Security Class Initialized
+DEBUG - 2015-09-23 16:34:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 16:34:42 --> Input Class Initialized
+INFO - 2015-09-23 16:34:42 --> Language Class Initialized
+ERROR - 2015-09-23 16:34:42 --> 404 Page Not Found: /index
+INFO - 2015-09-23 16:43:07 --> Config Class Initialized
+INFO - 2015-09-23 16:43:07 --> Hooks Class Initialized
+DEBUG - 2015-09-23 16:43:07 --> UTF-8 Support Enabled
+INFO - 2015-09-23 16:43:07 --> Utf8 Class Initialized
+INFO - 2015-09-23 16:43:07 --> URI Class Initialized
+INFO - 2015-09-23 16:43:07 --> Router Class Initialized
+INFO - 2015-09-23 16:43:07 --> Output Class Initialized
+INFO - 2015-09-23 16:43:07 --> Security Class Initialized
+DEBUG - 2015-09-23 16:43:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 16:43:07 --> Input Class Initialized
+INFO - 2015-09-23 16:43:07 --> Language Class Initialized
+ERROR - 2015-09-23 16:43:07 --> 404 Page Not Found: /index
+INFO - 2015-09-23 16:43:30 --> Config Class Initialized
+INFO - 2015-09-23 16:43:30 --> Hooks Class Initialized
+DEBUG - 2015-09-23 16:43:30 --> UTF-8 Support Enabled
+INFO - 2015-09-23 16:43:30 --> Utf8 Class Initialized
+INFO - 2015-09-23 16:43:30 --> URI Class Initialized
+INFO - 2015-09-23 16:43:30 --> Router Class Initialized
+INFO - 2015-09-23 16:43:30 --> Output Class Initialized
+INFO - 2015-09-23 16:43:30 --> Security Class Initialized
+DEBUG - 2015-09-23 16:43:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 16:43:30 --> Input Class Initialized
+INFO - 2015-09-23 16:43:30 --> Language Class Initialized
+ERROR - 2015-09-23 16:43:30 --> 404 Page Not Found: /index
+INFO - 2015-09-23 16:43:30 --> Config Class Initialized
+INFO - 2015-09-23 16:43:30 --> Hooks Class Initialized
+DEBUG - 2015-09-23 16:43:30 --> UTF-8 Support Enabled
+INFO - 2015-09-23 16:43:30 --> Utf8 Class Initialized
+INFO - 2015-09-23 16:43:30 --> URI Class Initialized
+INFO - 2015-09-23 16:43:30 --> Router Class Initialized
+INFO - 2015-09-23 16:43:30 --> Output Class Initialized
+INFO - 2015-09-23 16:43:30 --> Security Class Initialized
+DEBUG - 2015-09-23 16:43:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 16:43:30 --> Input Class Initialized
+INFO - 2015-09-23 16:43:30 --> Language Class Initialized
+ERROR - 2015-09-23 16:43:30 --> 404 Page Not Found: /index
+INFO - 2015-09-23 16:43:45 --> Config Class Initialized
+INFO - 2015-09-23 16:43:45 --> Hooks Class Initialized
+DEBUG - 2015-09-23 16:43:45 --> UTF-8 Support Enabled
+INFO - 2015-09-23 16:43:45 --> Utf8 Class Initialized
+INFO - 2015-09-23 16:43:45 --> URI Class Initialized
+DEBUG - 2015-09-23 16:43:45 --> No URI present. Default controller set.
+INFO - 2015-09-23 16:43:45 --> Router Class Initialized
+INFO - 2015-09-23 16:43:45 --> Output Class Initialized
+INFO - 2015-09-23 16:43:45 --> Security Class Initialized
+DEBUG - 2015-09-23 16:43:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 16:43:45 --> Input Class Initialized
+INFO - 2015-09-23 16:43:45 --> Language Class Initialized
+INFO - 2015-09-23 16:43:45 --> Language Class Initialized
+INFO - 2015-09-23 16:43:45 --> Config Class Initialized
+INFO - 2015-09-23 16:43:45 --> Loader Class Initialized
+INFO - 2015-09-23 16:43:45 --> Helper loaded: url_helper
+INFO - 2015-09-23 16:43:45 --> Helper loaded: view_helper
+INFO - 2015-09-23 16:43:45 --> Helper loaded: user_helper
+INFO - 2015-09-23 16:43:45 --> Helper loaded: html_helper
+INFO - 2015-09-23 16:43:45 --> Helper loaded: loader_helper
+INFO - 2015-09-23 16:43:45 --> Helper loaded: utilities_helper
+INFO - 2015-09-23 16:43:45 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-23 16:43:45 --> Database Driver Class Initialized
+INFO - 2015-09-23 16:43:45 --> Controller Class Initialized
+DEBUG - 2015-09-23 16:43:45 --> Cpanel MX_Controller Initialized
+INFO - 2015-09-23 16:43:45 --> Model Class Initialized
+DEBUG - 2015-09-23 16:43:45 --> File loaded: /home/DATA/PROJECT/WEB/public_html/DEV/Xy/program_files/application/modules/cpanel/models/Cmodel.php
+INFO - 2015-09-23 16:43:45 --> Model Class Initialized
+ERROR - 2015-09-23 16:43:45 --> Severity: Warning --> Illegal string offset 'ID' /home/DATA/PROJECT/WEB/public_html/DEV/Xy/program_files/application/modules/cpanel/models/Cmodel.php 11
+ERROR - 2015-09-23 16:43:45 --> Severity: Notice --> Uninitialized string offset: 0 /home/DATA/PROJECT/WEB/public_html/DEV/Xy/program_files/application/modules/cpanel/models/Cmodel.php 11
+INFO - 2015-09-23 16:43:45 --> Config Class Initialized
+INFO - 2015-09-23 16:43:45 --> Hooks Class Initialized
+DEBUG - 2015-09-23 16:43:45 --> UTF-8 Support Enabled
+INFO - 2015-09-23 16:43:45 --> Utf8 Class Initialized
+INFO - 2015-09-23 16:43:45 --> URI Class Initialized
+INFO - 2015-09-23 16:43:45 --> Router Class Initialized
+INFO - 2015-09-23 16:43:45 --> Output Class Initialized
+INFO - 2015-09-23 16:43:45 --> Security Class Initialized
+DEBUG - 2015-09-23 16:43:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 16:43:45 --> Input Class Initialized
+INFO - 2015-09-23 16:43:45 --> Language Class Initialized
+ERROR - 2015-09-23 16:43:45 --> 404 Page Not Found: /index
+INFO - 2015-09-23 16:44:01 --> Config Class Initialized
+INFO - 2015-09-23 16:44:01 --> Hooks Class Initialized
+DEBUG - 2015-09-23 16:44:01 --> UTF-8 Support Enabled
+INFO - 2015-09-23 16:44:01 --> Utf8 Class Initialized
+INFO - 2015-09-23 16:44:01 --> URI Class Initialized
+INFO - 2015-09-23 16:44:01 --> Router Class Initialized
+INFO - 2015-09-23 16:44:01 --> Output Class Initialized
+INFO - 2015-09-23 16:44:01 --> Security Class Initialized
+DEBUG - 2015-09-23 16:44:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 16:44:01 --> Input Class Initialized
+INFO - 2015-09-23 16:44:01 --> Language Class Initialized
+INFO - 2015-09-23 16:44:01 --> Language Class Initialized
+INFO - 2015-09-23 16:44:01 --> Config Class Initialized
+INFO - 2015-09-23 16:44:01 --> Loader Class Initialized
+INFO - 2015-09-23 16:44:01 --> Helper loaded: url_helper
+INFO - 2015-09-23 16:44:01 --> Helper loaded: view_helper
+INFO - 2015-09-23 16:44:01 --> Helper loaded: user_helper
+INFO - 2015-09-23 16:44:01 --> Helper loaded: html_helper
+INFO - 2015-09-23 16:44:01 --> Helper loaded: loader_helper
+INFO - 2015-09-23 16:44:01 --> Helper loaded: utilities_helper
+INFO - 2015-09-23 16:44:01 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-23 16:44:01 --> Database Driver Class Initialized
+INFO - 2015-09-23 16:44:01 --> Controller Class Initialized
+DEBUG - 2015-09-23 16:44:01 --> Cpanel MX_Controller Initialized
+INFO - 2015-09-23 16:44:01 --> Model Class Initialized
+DEBUG - 2015-09-23 16:44:01 --> File loaded: /home/DATA/PROJECT/WEB/public_html/DEV/Xy/program_files/application/modules/cpanel/models/Cmodel.php
+INFO - 2015-09-23 16:44:01 --> Model Class Initialized
+ERROR - 2015-09-23 16:44:01 --> Severity: Warning --> Illegal string offset 'ID' /home/DATA/PROJECT/WEB/public_html/DEV/Xy/program_files/application/modules/cpanel/models/Cmodel.php 11
+ERROR - 2015-09-23 16:44:01 --> Severity: Notice --> Uninitialized string offset: 0 /home/DATA/PROJECT/WEB/public_html/DEV/Xy/program_files/application/modules/cpanel/models/Cmodel.php 11
+INFO - 2015-09-23 16:44:01 --> Config Class Initialized
+INFO - 2015-09-23 16:44:01 --> Hooks Class Initialized
+DEBUG - 2015-09-23 16:44:01 --> UTF-8 Support Enabled
+INFO - 2015-09-23 16:44:01 --> Utf8 Class Initialized
+INFO - 2015-09-23 16:44:01 --> URI Class Initialized
+INFO - 2015-09-23 16:44:01 --> Router Class Initialized
+INFO - 2015-09-23 16:44:01 --> Output Class Initialized
+INFO - 2015-09-23 16:44:01 --> Security Class Initialized
+DEBUG - 2015-09-23 16:44:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 16:44:01 --> Input Class Initialized
+INFO - 2015-09-23 16:44:01 --> Language Class Initialized
+ERROR - 2015-09-23 16:44:01 --> 404 Page Not Found: /index
+INFO - 2015-09-23 16:44:05 --> Config Class Initialized
+INFO - 2015-09-23 16:44:05 --> Hooks Class Initialized
+DEBUG - 2015-09-23 16:44:05 --> UTF-8 Support Enabled
+INFO - 2015-09-23 16:44:05 --> Utf8 Class Initialized
+INFO - 2015-09-23 16:44:05 --> URI Class Initialized
+INFO - 2015-09-23 16:44:05 --> Router Class Initialized
+INFO - 2015-09-23 16:44:05 --> Output Class Initialized
+INFO - 2015-09-23 16:44:05 --> Security Class Initialized
+DEBUG - 2015-09-23 16:44:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 16:44:05 --> Input Class Initialized
+INFO - 2015-09-23 16:44:05 --> Language Class Initialized
+INFO - 2015-09-23 16:44:05 --> Language Class Initialized
+INFO - 2015-09-23 16:44:05 --> Config Class Initialized
+INFO - 2015-09-23 16:44:05 --> Loader Class Initialized
+INFO - 2015-09-23 16:44:05 --> Helper loaded: url_helper
+INFO - 2015-09-23 16:44:05 --> Helper loaded: view_helper
+INFO - 2015-09-23 16:44:05 --> Helper loaded: user_helper
+INFO - 2015-09-23 16:44:05 --> Helper loaded: html_helper
+INFO - 2015-09-23 16:44:05 --> Helper loaded: loader_helper
+INFO - 2015-09-23 16:44:05 --> Helper loaded: utilities_helper
+INFO - 2015-09-23 16:44:05 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-23 16:44:05 --> Database Driver Class Initialized
+INFO - 2015-09-23 16:44:05 --> Controller Class Initialized
+DEBUG - 2015-09-23 16:44:05 --> Auth MX_Controller Initialized
+INFO - 2015-09-23 16:44:05 --> Model Class Initialized
+DEBUG - 2015-09-23 16:44:05 --> File loaded: /home/DATA/PROJECT/WEB/public_html/DEV/Xy/program_files/application/modules/auth/models/Mauth.php
+INFO - 2015-09-23 16:44:05 --> Model Class Initialized
+DEBUG - 2015-09-23 16:44:05 --> File loaded: /home/DATA/PROJECT/WEB/public_html/DEV/Xy/program_files/application/modules/user_templates/views/header.php
+DEBUG - 2015-09-23 16:44:05 --> File loaded: /home/DATA/PROJECT/WEB/public_html/DEV/Xy/program_files/application/modules/auth/views/login_page.php
+DEBUG - 2015-09-23 16:44:05 --> File loaded: /home/DATA/PROJECT/WEB/public_html/DEV/Xy/program_files/application/modules/user_templates/views/footer.php
+INFO - 2015-09-23 16:44:05 --> Final output sent to browser
+DEBUG - 2015-09-23 16:44:05 --> Total execution time: 0.0142
+INFO - 2015-09-23 16:44:11 --> Config Class Initialized
+INFO - 2015-09-23 16:44:11 --> Hooks Class Initialized
+DEBUG - 2015-09-23 16:44:11 --> UTF-8 Support Enabled
+INFO - 2015-09-23 16:44:11 --> Utf8 Class Initialized
+INFO - 2015-09-23 16:44:11 --> URI Class Initialized
+INFO - 2015-09-23 16:44:11 --> Router Class Initialized
+INFO - 2015-09-23 16:44:11 --> Output Class Initialized
+INFO - 2015-09-23 16:44:11 --> Security Class Initialized
+DEBUG - 2015-09-23 16:44:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 16:44:11 --> Input Class Initialized
+INFO - 2015-09-23 16:44:11 --> Language Class Initialized
+ERROR - 2015-09-23 16:44:11 --> 404 Page Not Found: /index
+INFO - 2015-09-23 16:44:16 --> Config Class Initialized
+INFO - 2015-09-23 16:44:16 --> Hooks Class Initialized
+DEBUG - 2015-09-23 16:44:16 --> UTF-8 Support Enabled
+INFO - 2015-09-23 16:44:16 --> Utf8 Class Initialized
+INFO - 2015-09-23 16:44:16 --> URI Class Initialized
+INFO - 2015-09-23 16:44:16 --> Router Class Initialized
+INFO - 2015-09-23 16:44:16 --> Output Class Initialized
+INFO - 2015-09-23 16:44:16 --> Security Class Initialized
+DEBUG - 2015-09-23 16:44:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 16:44:16 --> Input Class Initialized
+INFO - 2015-09-23 16:44:16 --> Language Class Initialized
+ERROR - 2015-09-23 16:44:16 --> 404 Page Not Found: /index
+INFO - 2015-09-23 16:44:35 --> Config Class Initialized
+INFO - 2015-09-23 16:44:35 --> Hooks Class Initialized
+DEBUG - 2015-09-23 16:44:35 --> UTF-8 Support Enabled
+INFO - 2015-09-23 16:44:35 --> Utf8 Class Initialized
+INFO - 2015-09-23 16:44:35 --> URI Class Initialized
+INFO - 2015-09-23 16:44:35 --> Router Class Initialized
+INFO - 2015-09-23 16:44:35 --> Output Class Initialized
+INFO - 2015-09-23 16:44:35 --> Security Class Initialized
+DEBUG - 2015-09-23 16:44:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 16:44:35 --> Input Class Initialized
+INFO - 2015-09-23 16:44:35 --> Language Class Initialized
+ERROR - 2015-09-23 16:44:35 --> Severity: Error --> Call to undefined function base_url() /home/DATA/PROJECT/WEB/public_html/DEV/Xy/program_files/application/modules/Apps/controllers/Apps.php 2
+INFO - 2015-09-23 16:44:43 --> Config Class Initialized
+INFO - 2015-09-23 16:44:43 --> Hooks Class Initialized
+DEBUG - 2015-09-23 16:44:43 --> UTF-8 Support Enabled
+INFO - 2015-09-23 16:44:43 --> Utf8 Class Initialized
+INFO - 2015-09-23 16:44:43 --> URI Class Initialized
+INFO - 2015-09-23 16:44:43 --> Router Class Initialized
+INFO - 2015-09-23 16:44:43 --> Output Class Initialized
+INFO - 2015-09-23 16:44:43 --> Security Class Initialized
+DEBUG - 2015-09-23 16:44:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 16:44:43 --> Input Class Initialized
+INFO - 2015-09-23 16:44:43 --> Language Class Initialized
+ERROR - 2015-09-23 16:44:43 --> 404 Page Not Found: /index
+INFO - 2015-09-23 16:44:57 --> Config Class Initialized
+INFO - 2015-09-23 16:44:57 --> Hooks Class Initialized
+DEBUG - 2015-09-23 16:44:57 --> UTF-8 Support Enabled
+INFO - 2015-09-23 16:44:57 --> Utf8 Class Initialized
+INFO - 2015-09-23 16:44:57 --> URI Class Initialized
+INFO - 2015-09-23 16:44:57 --> Router Class Initialized
+INFO - 2015-09-23 16:44:57 --> Output Class Initialized
+INFO - 2015-09-23 16:44:57 --> Security Class Initialized
+DEBUG - 2015-09-23 16:44:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 16:44:57 --> Input Class Initialized
+INFO - 2015-09-23 16:44:57 --> Language Class Initialized
+ERROR - 2015-09-23 16:44:57 --> 404 Page Not Found: /index
+INFO - 2015-09-23 16:44:58 --> Config Class Initialized
+INFO - 2015-09-23 16:44:58 --> Hooks Class Initialized
+DEBUG - 2015-09-23 16:44:58 --> UTF-8 Support Enabled
+INFO - 2015-09-23 16:44:58 --> Utf8 Class Initialized
+INFO - 2015-09-23 16:44:58 --> URI Class Initialized
+INFO - 2015-09-23 16:44:58 --> Router Class Initialized
+INFO - 2015-09-23 16:44:58 --> Output Class Initialized
+INFO - 2015-09-23 16:44:58 --> Security Class Initialized
+DEBUG - 2015-09-23 16:44:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 16:44:58 --> Input Class Initialized
+INFO - 2015-09-23 16:44:58 --> Language Class Initialized
+ERROR - 2015-09-23 16:44:58 --> 404 Page Not Found: /index
+INFO - 2015-09-23 16:44:58 --> Config Class Initialized
+INFO - 2015-09-23 16:44:58 --> Hooks Class Initialized
+DEBUG - 2015-09-23 16:44:58 --> UTF-8 Support Enabled
+INFO - 2015-09-23 16:44:58 --> Utf8 Class Initialized
+INFO - 2015-09-23 16:44:58 --> URI Class Initialized
+INFO - 2015-09-23 16:44:58 --> Router Class Initialized
+INFO - 2015-09-23 16:44:58 --> Output Class Initialized
+INFO - 2015-09-23 16:44:58 --> Security Class Initialized
+DEBUG - 2015-09-23 16:44:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 16:44:58 --> Input Class Initialized
+INFO - 2015-09-23 16:44:58 --> Language Class Initialized
+ERROR - 2015-09-23 16:44:58 --> 404 Page Not Found: /index
+INFO - 2015-09-23 16:44:58 --> Config Class Initialized
+INFO - 2015-09-23 16:44:58 --> Hooks Class Initialized
+DEBUG - 2015-09-23 16:44:58 --> UTF-8 Support Enabled
+INFO - 2015-09-23 16:44:58 --> Utf8 Class Initialized
+INFO - 2015-09-23 16:44:58 --> URI Class Initialized
+INFO - 2015-09-23 16:44:58 --> Router Class Initialized
+INFO - 2015-09-23 16:44:58 --> Output Class Initialized
+INFO - 2015-09-23 16:44:58 --> Security Class Initialized
+DEBUG - 2015-09-23 16:44:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 16:44:58 --> Input Class Initialized
+INFO - 2015-09-23 16:44:58 --> Language Class Initialized
+ERROR - 2015-09-23 16:44:58 --> 404 Page Not Found: /index
+INFO - 2015-09-23 16:44:58 --> Config Class Initialized
+INFO - 2015-09-23 16:44:58 --> Hooks Class Initialized
+DEBUG - 2015-09-23 16:44:58 --> UTF-8 Support Enabled
+INFO - 2015-09-23 16:44:58 --> Utf8 Class Initialized
+INFO - 2015-09-23 16:44:58 --> URI Class Initialized
+INFO - 2015-09-23 16:44:58 --> Router Class Initialized
+INFO - 2015-09-23 16:44:58 --> Output Class Initialized
+INFO - 2015-09-23 16:44:58 --> Security Class Initialized
+DEBUG - 2015-09-23 16:44:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 16:44:58 --> Input Class Initialized
+INFO - 2015-09-23 16:44:58 --> Language Class Initialized
+ERROR - 2015-09-23 16:44:58 --> 404 Page Not Found: /index
+INFO - 2015-09-23 16:44:59 --> Config Class Initialized
+INFO - 2015-09-23 16:44:59 --> Hooks Class Initialized
+DEBUG - 2015-09-23 16:44:59 --> UTF-8 Support Enabled
+INFO - 2015-09-23 16:44:59 --> Utf8 Class Initialized
+INFO - 2015-09-23 16:44:59 --> URI Class Initialized
+INFO - 2015-09-23 16:44:59 --> Router Class Initialized
+INFO - 2015-09-23 16:44:59 --> Output Class Initialized
+INFO - 2015-09-23 16:44:59 --> Security Class Initialized
+DEBUG - 2015-09-23 16:44:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 16:44:59 --> Input Class Initialized
+INFO - 2015-09-23 16:44:59 --> Language Class Initialized
+ERROR - 2015-09-23 16:44:59 --> 404 Page Not Found: /index
+INFO - 2015-09-23 16:44:59 --> Config Class Initialized
+INFO - 2015-09-23 16:44:59 --> Hooks Class Initialized
+DEBUG - 2015-09-23 16:44:59 --> UTF-8 Support Enabled
+INFO - 2015-09-23 16:44:59 --> Utf8 Class Initialized
+INFO - 2015-09-23 16:44:59 --> URI Class Initialized
+INFO - 2015-09-23 16:44:59 --> Router Class Initialized
+INFO - 2015-09-23 16:44:59 --> Output Class Initialized
+INFO - 2015-09-23 16:44:59 --> Security Class Initialized
+DEBUG - 2015-09-23 16:44:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 16:44:59 --> Input Class Initialized
+INFO - 2015-09-23 16:44:59 --> Language Class Initialized
+ERROR - 2015-09-23 16:44:59 --> 404 Page Not Found: /index
+INFO - 2015-09-23 16:45:02 --> Config Class Initialized
+INFO - 2015-09-23 16:45:02 --> Hooks Class Initialized
+DEBUG - 2015-09-23 16:45:02 --> UTF-8 Support Enabled
+INFO - 2015-09-23 16:45:02 --> Utf8 Class Initialized
+INFO - 2015-09-23 16:45:02 --> URI Class Initialized
+INFO - 2015-09-23 16:45:02 --> Router Class Initialized
+INFO - 2015-09-23 16:45:02 --> Output Class Initialized
+INFO - 2015-09-23 16:45:02 --> Security Class Initialized
+DEBUG - 2015-09-23 16:45:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 16:45:02 --> Input Class Initialized
+INFO - 2015-09-23 16:45:02 --> Language Class Initialized
+ERROR - 2015-09-23 16:45:02 --> 404 Page Not Found: /index
+INFO - 2015-09-23 16:45:10 --> Config Class Initialized
+INFO - 2015-09-23 16:45:10 --> Hooks Class Initialized
+DEBUG - 2015-09-23 16:45:10 --> UTF-8 Support Enabled
+INFO - 2015-09-23 16:45:10 --> Utf8 Class Initialized
+INFO - 2015-09-23 16:45:10 --> URI Class Initialized
+INFO - 2015-09-23 16:45:10 --> Router Class Initialized
+INFO - 2015-09-23 16:45:10 --> Output Class Initialized
+INFO - 2015-09-23 16:45:10 --> Security Class Initialized
+DEBUG - 2015-09-23 16:45:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 16:45:10 --> Input Class Initialized
+INFO - 2015-09-23 16:45:10 --> Language Class Initialized
+ERROR - 2015-09-23 16:45:10 --> Severity: Error --> Call to undefined function base_url() /home/DATA/PROJECT/WEB/public_html/DEV/Xy/program_files/application/modules/Apps/controllers/Apps.php 2
+INFO - 2015-09-23 16:46:37 --> Config Class Initialized
+INFO - 2015-09-23 16:46:37 --> Hooks Class Initialized
+DEBUG - 2015-09-23 16:46:37 --> UTF-8 Support Enabled
+INFO - 2015-09-23 16:46:37 --> Utf8 Class Initialized
+INFO - 2015-09-23 16:46:37 --> URI Class Initialized
+INFO - 2015-09-23 16:46:37 --> Router Class Initialized
+INFO - 2015-09-23 16:46:37 --> Output Class Initialized
+INFO - 2015-09-23 16:46:37 --> Security Class Initialized
+DEBUG - 2015-09-23 16:46:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 16:46:37 --> Input Class Initialized
+INFO - 2015-09-23 16:46:37 --> Language Class Initialized
+ERROR - 2015-09-23 16:46:37 --> Severity: Parsing Error --> syntax error, unexpected 'include' (T_INCLUDE), expecting function (T_FUNCTION) /home/DATA/PROJECT/WEB/public_html/DEV/Xy/program_files/application/modules/Apps/controllers/Apps.php 5
+INFO - 2015-09-23 16:46:52 --> Config Class Initialized
+INFO - 2015-09-23 16:46:52 --> Hooks Class Initialized
+DEBUG - 2015-09-23 16:46:52 --> UTF-8 Support Enabled
+INFO - 2015-09-23 16:46:52 --> Utf8 Class Initialized
+INFO - 2015-09-23 16:46:52 --> URI Class Initialized
+INFO - 2015-09-23 16:46:52 --> Router Class Initialized
+INFO - 2015-09-23 16:46:52 --> Output Class Initialized
+INFO - 2015-09-23 16:46:52 --> Security Class Initialized
+DEBUG - 2015-09-23 16:46:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 16:46:52 --> Input Class Initialized
+INFO - 2015-09-23 16:46:52 --> Language Class Initialized
+INFO - 2015-09-23 16:46:52 --> Language Class Initialized
+INFO - 2015-09-23 16:46:52 --> Config Class Initialized
+INFO - 2015-09-23 16:46:52 --> Loader Class Initialized
+INFO - 2015-09-23 16:46:52 --> Helper loaded: url_helper
+INFO - 2015-09-23 16:46:52 --> Helper loaded: view_helper
+INFO - 2015-09-23 16:46:52 --> Helper loaded: user_helper
+INFO - 2015-09-23 16:46:52 --> Helper loaded: html_helper
+INFO - 2015-09-23 16:46:52 --> Helper loaded: loader_helper
+INFO - 2015-09-23 16:46:52 --> Helper loaded: utilities_helper
+INFO - 2015-09-23 16:46:52 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-23 16:46:52 --> Database Driver Class Initialized
+INFO - 2015-09-23 16:46:52 --> Controller Class Initialized
+ERROR - 2015-09-23 16:46:52 --> Severity: Warning --> include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 /home/DATA/PROJECT/WEB/public_html/DEV/Xy/program_files/application/modules/Apps/controllers/Apps.php 12
+ERROR - 2015-09-23 16:46:52 --> Severity: Warning --> include(http://localhost:1111/_ext-library/phpqrcode/qrlib.php): failed to open stream: no suitable wrapper could be found /home/DATA/PROJECT/WEB/public_html/DEV/Xy/program_files/application/modules/Apps/controllers/Apps.php 12
+ERROR - 2015-09-23 16:46:52 --> Severity: Warning --> include(): Failed opening 'http://localhost:1111/_ext-library/phpqrcode/qrlib.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') /home/DATA/PROJECT/WEB/public_html/DEV/Xy/program_files/application/modules/Apps/controllers/Apps.php 12
+INFO - 2015-09-23 16:46:52 --> Final output sent to browser
+DEBUG - 2015-09-23 16:46:52 --> Total execution time: 0.0105
+INFO - 2015-09-23 16:47:34 --> Config Class Initialized
+INFO - 2015-09-23 16:47:34 --> Hooks Class Initialized
+DEBUG - 2015-09-23 16:47:34 --> UTF-8 Support Enabled
+INFO - 2015-09-23 16:47:34 --> Utf8 Class Initialized
+INFO - 2015-09-23 16:47:34 --> URI Class Initialized
+INFO - 2015-09-23 16:47:34 --> Router Class Initialized
+INFO - 2015-09-23 16:47:34 --> Output Class Initialized
+INFO - 2015-09-23 16:47:34 --> Security Class Initialized
+DEBUG - 2015-09-23 16:47:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 16:47:34 --> Input Class Initialized
+INFO - 2015-09-23 16:47:34 --> Language Class Initialized
+INFO - 2015-09-23 16:47:34 --> Language Class Initialized
+INFO - 2015-09-23 16:47:34 --> Config Class Initialized
+INFO - 2015-09-23 16:47:34 --> Loader Class Initialized
+INFO - 2015-09-23 16:47:34 --> Helper loaded: url_helper
+INFO - 2015-09-23 16:47:34 --> Helper loaded: view_helper
+INFO - 2015-09-23 16:47:34 --> Helper loaded: user_helper
+INFO - 2015-09-23 16:47:34 --> Helper loaded: html_helper
+INFO - 2015-09-23 16:47:34 --> Helper loaded: loader_helper
+INFO - 2015-09-23 16:47:34 --> Helper loaded: utilities_helper
+INFO - 2015-09-23 16:47:34 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-23 16:47:34 --> Database Driver Class Initialized
+INFO - 2015-09-23 16:47:34 --> Controller Class Initialized
+ERROR - 2015-09-23 16:47:34 --> Severity: Warning --> include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 /home/DATA/PROJECT/WEB/public_html/DEV/Xy/program_files/application/helpers/utilities_helper.php 4
+ERROR - 2015-09-23 16:47:34 --> Severity: Warning --> include(http://localhost:1111/_ext-library/phpqrcode/qrlib.php): failed to open stream: no suitable wrapper could be found /home/DATA/PROJECT/WEB/public_html/DEV/Xy/program_files/application/helpers/utilities_helper.php 4
+ERROR - 2015-09-23 16:47:34 --> Severity: Warning --> include(): Failed opening 'http://localhost:1111/_ext-library/phpqrcode/qrlib.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') /home/DATA/PROJECT/WEB/public_html/DEV/Xy/program_files/application/helpers/utilities_helper.php 4
+INFO - 2015-09-23 16:47:34 --> Final output sent to browser
+DEBUG - 2015-09-23 16:47:34 --> Total execution time: 0.0129
+INFO - 2015-09-23 16:47:53 --> Config Class Initialized
+INFO - 2015-09-23 16:47:53 --> Hooks Class Initialized
+DEBUG - 2015-09-23 16:47:53 --> UTF-8 Support Enabled
+INFO - 2015-09-23 16:47:53 --> Utf8 Class Initialized
+INFO - 2015-09-23 16:47:53 --> URI Class Initialized
+INFO - 2015-09-23 16:47:53 --> Router Class Initialized
+INFO - 2015-09-23 16:47:53 --> Output Class Initialized
+INFO - 2015-09-23 16:47:53 --> Security Class Initialized
+DEBUG - 2015-09-23 16:47:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 16:47:53 --> Input Class Initialized
+INFO - 2015-09-23 16:47:53 --> Language Class Initialized
+INFO - 2015-09-23 16:47:53 --> Language Class Initialized
+INFO - 2015-09-23 16:47:53 --> Config Class Initialized
+INFO - 2015-09-23 16:47:53 --> Loader Class Initialized
+INFO - 2015-09-23 16:47:53 --> Helper loaded: url_helper
+INFO - 2015-09-23 16:47:53 --> Helper loaded: view_helper
+INFO - 2015-09-23 16:47:53 --> Helper loaded: user_helper
+INFO - 2015-09-23 16:47:53 --> Helper loaded: html_helper
+INFO - 2015-09-23 16:47:53 --> Helper loaded: loader_helper
+INFO - 2015-09-23 16:47:53 --> Helper loaded: utilities_helper
+INFO - 2015-09-23 16:47:53 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-23 16:47:53 --> Database Driver Class Initialized
+INFO - 2015-09-23 16:47:53 --> Controller Class Initialized
+ERROR - 2015-09-23 16:47:53 --> Severity: Warning --> require_once(): http:// wrapper is disabled in the server configuration by allow_url_include=0 /home/DATA/PROJECT/WEB/public_html/DEV/Xy/program_files/application/helpers/utilities_helper.php 4
+ERROR - 2015-09-23 16:47:53 --> Severity: Warning --> require_once(http://localhost:1111/_ext-library/phpqrcode/qrlib.php): failed to open stream: no suitable wrapper could be found /home/DATA/PROJECT/WEB/public_html/DEV/Xy/program_files/application/helpers/utilities_helper.php 4
+ERROR - 2015-09-23 16:47:53 --> Severity: Compile Error --> require_once(): Failed opening required 'http://localhost:1111/_ext-library/phpqrcode/qrlib.php' (include_path='.:/usr/share/php:/usr/share/pear') /home/DATA/PROJECT/WEB/public_html/DEV/Xy/program_files/application/helpers/utilities_helper.php 4
+INFO - 2015-09-23 16:52:13 --> Config Class Initialized
+INFO - 2015-09-23 16:52:13 --> Hooks Class Initialized
+DEBUG - 2015-09-23 16:52:13 --> UTF-8 Support Enabled
+INFO - 2015-09-23 16:52:13 --> Utf8 Class Initialized
+INFO - 2015-09-23 16:52:13 --> URI Class Initialized
+INFO - 2015-09-23 16:52:13 --> Router Class Initialized
+INFO - 2015-09-23 16:52:13 --> Output Class Initialized
+INFO - 2015-09-23 16:52:13 --> Security Class Initialized
+DEBUG - 2015-09-23 16:52:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 16:52:13 --> Input Class Initialized
+INFO - 2015-09-23 16:52:13 --> Language Class Initialized
+INFO - 2015-09-23 16:52:13 --> Language Class Initialized
+INFO - 2015-09-23 16:52:13 --> Config Class Initialized
+INFO - 2015-09-23 16:52:13 --> Loader Class Initialized
+INFO - 2015-09-23 16:52:13 --> Helper loaded: url_helper
+INFO - 2015-09-23 16:52:13 --> Helper loaded: view_helper
+INFO - 2015-09-23 16:52:13 --> Helper loaded: user_helper
+INFO - 2015-09-23 16:52:13 --> Helper loaded: html_helper
+INFO - 2015-09-23 16:52:13 --> Helper loaded: loader_helper
+INFO - 2015-09-23 16:52:13 --> Helper loaded: utilities_helper
+INFO - 2015-09-23 16:52:13 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-23 16:52:13 --> Database Driver Class Initialized
+INFO - 2015-09-23 16:52:13 --> Controller Class Initialized
+ERROR - 2015-09-23 16:52:13 --> Unable to load the requested class: Phpqrcode
+INFO - 2015-09-23 16:52:42 --> Config Class Initialized
+INFO - 2015-09-23 16:52:42 --> Hooks Class Initialized
+DEBUG - 2015-09-23 16:52:42 --> UTF-8 Support Enabled
+INFO - 2015-09-23 16:52:42 --> Utf8 Class Initialized
+INFO - 2015-09-23 16:52:42 --> URI Class Initialized
+INFO - 2015-09-23 16:52:42 --> Router Class Initialized
+INFO - 2015-09-23 16:52:42 --> Output Class Initialized
+INFO - 2015-09-23 16:52:42 --> Security Class Initialized
+DEBUG - 2015-09-23 16:52:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 16:52:42 --> Input Class Initialized
+INFO - 2015-09-23 16:52:42 --> Language Class Initialized
+INFO - 2015-09-23 16:52:42 --> Language Class Initialized
+INFO - 2015-09-23 16:52:42 --> Config Class Initialized
+INFO - 2015-09-23 16:52:42 --> Loader Class Initialized
+INFO - 2015-09-23 16:52:42 --> Helper loaded: url_helper
+INFO - 2015-09-23 16:52:42 --> Helper loaded: view_helper
+INFO - 2015-09-23 16:52:42 --> Helper loaded: user_helper
+INFO - 2015-09-23 16:52:42 --> Helper loaded: html_helper
+INFO - 2015-09-23 16:52:42 --> Helper loaded: loader_helper
+INFO - 2015-09-23 16:52:42 --> Helper loaded: utilities_helper
+INFO - 2015-09-23 16:52:42 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-23 16:52:42 --> Database Driver Class Initialized
+INFO - 2015-09-23 16:52:42 --> Controller Class Initialized
+ERROR - 2015-09-23 16:52:42 --> Unable to load the requested class: Qrlib
+INFO - 2015-09-23 16:52:43 --> Config Class Initialized
+INFO - 2015-09-23 16:52:43 --> Hooks Class Initialized
+DEBUG - 2015-09-23 16:52:43 --> UTF-8 Support Enabled
+INFO - 2015-09-23 16:52:43 --> Utf8 Class Initialized
+INFO - 2015-09-23 16:52:43 --> URI Class Initialized
+INFO - 2015-09-23 16:52:43 --> Router Class Initialized
+INFO - 2015-09-23 16:52:43 --> Output Class Initialized
+INFO - 2015-09-23 16:52:43 --> Security Class Initialized
+DEBUG - 2015-09-23 16:52:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 16:52:43 --> Input Class Initialized
+INFO - 2015-09-23 16:52:43 --> Language Class Initialized
+INFO - 2015-09-23 16:52:43 --> Language Class Initialized
+INFO - 2015-09-23 16:52:43 --> Config Class Initialized
+INFO - 2015-09-23 16:52:43 --> Loader Class Initialized
+INFO - 2015-09-23 16:52:43 --> Helper loaded: url_helper
+INFO - 2015-09-23 16:52:43 --> Helper loaded: view_helper
+INFO - 2015-09-23 16:52:43 --> Helper loaded: user_helper
+INFO - 2015-09-23 16:52:43 --> Helper loaded: html_helper
+INFO - 2015-09-23 16:52:43 --> Helper loaded: loader_helper
+INFO - 2015-09-23 16:52:43 --> Helper loaded: utilities_helper
+INFO - 2015-09-23 16:52:43 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-23 16:52:43 --> Database Driver Class Initialized
+INFO - 2015-09-23 16:52:43 --> Controller Class Initialized
+ERROR - 2015-09-23 16:52:43 --> Unable to load the requested class: Qrlib
+INFO - 2015-09-23 16:55:31 --> Config Class Initialized
+INFO - 2015-09-23 16:55:31 --> Hooks Class Initialized
+DEBUG - 2015-09-23 16:55:31 --> UTF-8 Support Enabled
+INFO - 2015-09-23 16:55:31 --> Utf8 Class Initialized
+INFO - 2015-09-23 16:55:31 --> URI Class Initialized
+INFO - 2015-09-23 16:55:31 --> Router Class Initialized
+INFO - 2015-09-23 16:55:31 --> Output Class Initialized
+INFO - 2015-09-23 16:55:31 --> Security Class Initialized
+DEBUG - 2015-09-23 16:55:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 16:55:31 --> Input Class Initialized
+INFO - 2015-09-23 16:55:31 --> Language Class Initialized
+INFO - 2015-09-23 16:55:31 --> Language Class Initialized
+INFO - 2015-09-23 16:55:31 --> Config Class Initialized
+INFO - 2015-09-23 16:55:31 --> Loader Class Initialized
+INFO - 2015-09-23 16:55:31 --> Helper loaded: url_helper
+INFO - 2015-09-23 16:55:31 --> Helper loaded: view_helper
+INFO - 2015-09-23 16:55:31 --> Helper loaded: user_helper
+INFO - 2015-09-23 16:55:31 --> Helper loaded: html_helper
+INFO - 2015-09-23 16:55:31 --> Helper loaded: loader_helper
+INFO - 2015-09-23 16:55:31 --> Helper loaded: utilities_helper
+INFO - 2015-09-23 16:55:31 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-23 16:55:31 --> Database Driver Class Initialized
+INFO - 2015-09-23 16:55:31 --> Controller Class Initialized
+ERROR - 2015-09-23 16:55:31 --> Severity: Warning --> require(/home/DATA/PROJECT/WEB/public_html/DEV/Xy/_ext-library/phpqrcodeqrlib.php): failed to open stream: No such file or directory /home/DATA/PROJECT/WEB/public_html/DEV/Xy/program_files/application/modules/Apps/controllers/Apps.php 12
+ERROR - 2015-09-23 16:55:31 --> Severity: Compile Error --> require(): Failed opening required '/home/DATA/PROJECT/WEB/public_html/DEV/Xy/_ext-library/phpqrcodeqrlib.php' (include_path='.:/usr/share/php:/usr/share/pear') /home/DATA/PROJECT/WEB/public_html/DEV/Xy/program_files/application/modules/Apps/controllers/Apps.php 12
+INFO - 2015-09-23 16:55:52 --> Config Class Initialized
+INFO - 2015-09-23 16:55:52 --> Hooks Class Initialized
+DEBUG - 2015-09-23 16:55:52 --> UTF-8 Support Enabled
+INFO - 2015-09-23 16:55:52 --> Utf8 Class Initialized
+INFO - 2015-09-23 16:55:52 --> URI Class Initialized
+INFO - 2015-09-23 16:55:52 --> Router Class Initialized
+INFO - 2015-09-23 16:55:52 --> Output Class Initialized
+INFO - 2015-09-23 16:55:52 --> Security Class Initialized
+DEBUG - 2015-09-23 16:55:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 16:55:52 --> Input Class Initialized
+INFO - 2015-09-23 16:55:52 --> Language Class Initialized
+INFO - 2015-09-23 16:55:52 --> Language Class Initialized
+INFO - 2015-09-23 16:55:52 --> Config Class Initialized
+INFO - 2015-09-23 16:55:52 --> Loader Class Initialized
+INFO - 2015-09-23 16:55:52 --> Helper loaded: url_helper
+INFO - 2015-09-23 16:55:52 --> Helper loaded: view_helper
+INFO - 2015-09-23 16:55:52 --> Helper loaded: user_helper
+INFO - 2015-09-23 16:55:52 --> Helper loaded: html_helper
+INFO - 2015-09-23 16:55:52 --> Helper loaded: loader_helper
+INFO - 2015-09-23 16:55:52 --> Helper loaded: utilities_helper
+INFO - 2015-09-23 16:55:52 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-23 16:55:52 --> Database Driver Class Initialized
+INFO - 2015-09-23 16:55:52 --> Controller Class Initialized
+INFO - 2015-09-23 16:55:52 --> Final output sent to browser
+DEBUG - 2015-09-23 16:55:52 --> Total execution time: 0.0230
+INFO - 2015-09-23 16:56:27 --> Config Class Initialized
+INFO - 2015-09-23 16:56:27 --> Hooks Class Initialized
+DEBUG - 2015-09-23 16:56:27 --> UTF-8 Support Enabled
+INFO - 2015-09-23 16:56:27 --> Utf8 Class Initialized
+INFO - 2015-09-23 16:56:27 --> URI Class Initialized
+INFO - 2015-09-23 16:56:27 --> Router Class Initialized
+INFO - 2015-09-23 16:56:27 --> Output Class Initialized
+INFO - 2015-09-23 16:56:27 --> Security Class Initialized
+DEBUG - 2015-09-23 16:56:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 16:56:27 --> Input Class Initialized
+INFO - 2015-09-23 16:56:27 --> Language Class Initialized
+INFO - 2015-09-23 16:56:27 --> Language Class Initialized
+INFO - 2015-09-23 16:56:27 --> Config Class Initialized
+INFO - 2015-09-23 16:56:27 --> Loader Class Initialized
+INFO - 2015-09-23 16:56:27 --> Helper loaded: url_helper
+INFO - 2015-09-23 16:56:27 --> Helper loaded: view_helper
+INFO - 2015-09-23 16:56:27 --> Helper loaded: user_helper
+INFO - 2015-09-23 16:56:27 --> Helper loaded: html_helper
+INFO - 2015-09-23 16:56:27 --> Helper loaded: loader_helper
+INFO - 2015-09-23 16:56:27 --> Helper loaded: utilities_helper
+INFO - 2015-09-23 16:56:27 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-23 16:56:27 --> Database Driver Class Initialized
+INFO - 2015-09-23 16:56:27 --> Controller Class Initialized
+INFO - 2015-09-23 16:56:27 --> Final output sent to browser
+DEBUG - 2015-09-23 16:56:27 --> Total execution time: 0.0110
+INFO - 2015-09-23 16:58:53 --> Config Class Initialized
+INFO - 2015-09-23 16:58:53 --> Hooks Class Initialized
+DEBUG - 2015-09-23 16:58:53 --> UTF-8 Support Enabled
+INFO - 2015-09-23 16:58:53 --> Utf8 Class Initialized
+INFO - 2015-09-23 16:58:53 --> URI Class Initialized
+INFO - 2015-09-23 16:58:53 --> Router Class Initialized
+INFO - 2015-09-23 16:58:53 --> Output Class Initialized
+INFO - 2015-09-23 16:58:53 --> Security Class Initialized
+DEBUG - 2015-09-23 16:58:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 16:58:53 --> Input Class Initialized
+INFO - 2015-09-23 16:58:53 --> Language Class Initialized
+INFO - 2015-09-23 16:58:53 --> Language Class Initialized
+INFO - 2015-09-23 16:58:53 --> Config Class Initialized
+INFO - 2015-09-23 16:58:53 --> Loader Class Initialized
+INFO - 2015-09-23 16:58:53 --> Helper loaded: url_helper
+INFO - 2015-09-23 16:58:53 --> Helper loaded: view_helper
+INFO - 2015-09-23 16:58:53 --> Helper loaded: user_helper
+INFO - 2015-09-23 16:58:53 --> Helper loaded: html_helper
+INFO - 2015-09-23 16:58:53 --> Helper loaded: loader_helper
+INFO - 2015-09-23 16:58:53 --> Helper loaded: utilities_helper
+INFO - 2015-09-23 16:58:53 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-23 16:58:53 --> Database Driver Class Initialized
+INFO - 2015-09-23 16:58:53 --> Controller Class Initialized
+INFO - 2015-09-23 16:58:53 --> Final output sent to browser
+DEBUG - 2015-09-23 16:58:53 --> Total execution time: 0.0118
+INFO - 2015-09-23 16:59:45 --> Config Class Initialized
+INFO - 2015-09-23 16:59:45 --> Hooks Class Initialized
+DEBUG - 2015-09-23 16:59:45 --> UTF-8 Support Enabled
+INFO - 2015-09-23 16:59:45 --> Utf8 Class Initialized
+INFO - 2015-09-23 16:59:45 --> URI Class Initialized
+INFO - 2015-09-23 16:59:45 --> Router Class Initialized
+INFO - 2015-09-23 16:59:45 --> Output Class Initialized
+INFO - 2015-09-23 16:59:45 --> Security Class Initialized
+DEBUG - 2015-09-23 16:59:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 16:59:45 --> Input Class Initialized
+INFO - 2015-09-23 16:59:45 --> Language Class Initialized
+INFO - 2015-09-23 16:59:45 --> Language Class Initialized
+INFO - 2015-09-23 16:59:45 --> Config Class Initialized
+INFO - 2015-09-23 16:59:45 --> Loader Class Initialized
+INFO - 2015-09-23 16:59:45 --> Helper loaded: url_helper
+INFO - 2015-09-23 16:59:45 --> Helper loaded: view_helper
+INFO - 2015-09-23 16:59:45 --> Helper loaded: user_helper
+INFO - 2015-09-23 16:59:45 --> Helper loaded: html_helper
+INFO - 2015-09-23 16:59:45 --> Helper loaded: loader_helper
+INFO - 2015-09-23 16:59:45 --> Helper loaded: utilities_helper
+INFO - 2015-09-23 16:59:45 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-23 16:59:45 --> Database Driver Class Initialized
+INFO - 2015-09-23 16:59:45 --> Controller Class Initialized
+INFO - 2015-09-23 16:59:45 --> Final output sent to browser
+DEBUG - 2015-09-23 16:59:45 --> Total execution time: 0.0108
+INFO - 2015-09-23 17:07:17 --> Config Class Initialized
+INFO - 2015-09-23 17:07:17 --> Hooks Class Initialized
+DEBUG - 2015-09-23 17:07:17 --> UTF-8 Support Enabled
+INFO - 2015-09-23 17:07:17 --> Utf8 Class Initialized
+INFO - 2015-09-23 17:07:17 --> URI Class Initialized
+INFO - 2015-09-23 17:07:17 --> Router Class Initialized
+INFO - 2015-09-23 17:07:17 --> Output Class Initialized
+INFO - 2015-09-23 17:07:17 --> Security Class Initialized
+DEBUG - 2015-09-23 17:07:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 17:07:17 --> Input Class Initialized
+INFO - 2015-09-23 17:07:17 --> Language Class Initialized
+INFO - 2015-09-23 17:07:17 --> Language Class Initialized
+INFO - 2015-09-23 17:07:17 --> Config Class Initialized
+INFO - 2015-09-23 17:07:17 --> Loader Class Initialized
+INFO - 2015-09-23 17:07:17 --> Helper loaded: url_helper
+INFO - 2015-09-23 17:07:17 --> Helper loaded: view_helper
+INFO - 2015-09-23 17:07:17 --> Helper loaded: user_helper
+INFO - 2015-09-23 17:07:17 --> Helper loaded: html_helper
+INFO - 2015-09-23 17:07:17 --> Helper loaded: loader_helper
+ERROR - 2015-09-23 17:07:17 --> Severity: Compile Error --> Cannot use isset() on the result of an expression (you can use "null !== expression" instead) /home/DATA/PROJECT/WEB/public_html/DEV/Xy/program_files/application/helpers/utilities_helper.php 17
+INFO - 2015-09-23 17:07:51 --> Config Class Initialized
+INFO - 2015-09-23 17:07:51 --> Hooks Class Initialized
+DEBUG - 2015-09-23 17:07:51 --> UTF-8 Support Enabled
+INFO - 2015-09-23 17:07:51 --> Utf8 Class Initialized
+INFO - 2015-09-23 17:07:51 --> URI Class Initialized
+INFO - 2015-09-23 17:07:51 --> Router Class Initialized
+INFO - 2015-09-23 17:07:51 --> Output Class Initialized
+INFO - 2015-09-23 17:07:51 --> Security Class Initialized
+DEBUG - 2015-09-23 17:07:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 17:07:51 --> Input Class Initialized
+INFO - 2015-09-23 17:07:51 --> Language Class Initialized
+INFO - 2015-09-23 17:07:51 --> Language Class Initialized
+INFO - 2015-09-23 17:07:51 --> Config Class Initialized
+INFO - 2015-09-23 17:07:51 --> Loader Class Initialized
+INFO - 2015-09-23 17:07:51 --> Helper loaded: url_helper
+INFO - 2015-09-23 17:07:51 --> Helper loaded: view_helper
+INFO - 2015-09-23 17:07:51 --> Helper loaded: user_helper
+INFO - 2015-09-23 17:07:51 --> Helper loaded: html_helper
+INFO - 2015-09-23 17:07:51 --> Helper loaded: loader_helper
+ERROR - 2015-09-23 17:07:51 --> Severity: Compile Error --> Cannot use isset() on the result of an expression (you can use "null !== expression" instead) /home/DATA/PROJECT/WEB/public_html/DEV/Xy/program_files/application/helpers/utilities_helper.php 17
+INFO - 2015-09-23 17:07:53 --> Config Class Initialized
+INFO - 2015-09-23 17:07:53 --> Hooks Class Initialized
+DEBUG - 2015-09-23 17:07:53 --> UTF-8 Support Enabled
+INFO - 2015-09-23 17:07:53 --> Utf8 Class Initialized
+INFO - 2015-09-23 17:07:53 --> URI Class Initialized
+INFO - 2015-09-23 17:07:53 --> Router Class Initialized
+INFO - 2015-09-23 17:07:53 --> Output Class Initialized
+INFO - 2015-09-23 17:07:53 --> Security Class Initialized
+DEBUG - 2015-09-23 17:07:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 17:07:53 --> Input Class Initialized
+INFO - 2015-09-23 17:07:53 --> Language Class Initialized
+INFO - 2015-09-23 17:07:53 --> Language Class Initialized
+INFO - 2015-09-23 17:07:53 --> Config Class Initialized
+INFO - 2015-09-23 17:07:53 --> Loader Class Initialized
+INFO - 2015-09-23 17:07:53 --> Helper loaded: url_helper
+INFO - 2015-09-23 17:07:53 --> Helper loaded: view_helper
+INFO - 2015-09-23 17:07:53 --> Helper loaded: user_helper
+INFO - 2015-09-23 17:07:53 --> Helper loaded: html_helper
+INFO - 2015-09-23 17:07:53 --> Helper loaded: loader_helper
+ERROR - 2015-09-23 17:07:53 --> Severity: Compile Error --> Cannot use isset() on the result of an expression (you can use "null !== expression" instead) /home/DATA/PROJECT/WEB/public_html/DEV/Xy/program_files/application/helpers/utilities_helper.php 17
+INFO - 2015-09-23 17:08:01 --> Config Class Initialized
+INFO - 2015-09-23 17:08:01 --> Hooks Class Initialized
+DEBUG - 2015-09-23 17:08:01 --> UTF-8 Support Enabled
+INFO - 2015-09-23 17:08:01 --> Utf8 Class Initialized
+INFO - 2015-09-23 17:08:01 --> URI Class Initialized
+INFO - 2015-09-23 17:08:01 --> Router Class Initialized
+INFO - 2015-09-23 17:08:01 --> Output Class Initialized
+INFO - 2015-09-23 17:08:01 --> Security Class Initialized
+DEBUG - 2015-09-23 17:08:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 17:08:01 --> Input Class Initialized
+INFO - 2015-09-23 17:08:01 --> Language Class Initialized
+INFO - 2015-09-23 17:08:01 --> Language Class Initialized
+INFO - 2015-09-23 17:08:01 --> Config Class Initialized
+INFO - 2015-09-23 17:08:01 --> Loader Class Initialized
+INFO - 2015-09-23 17:08:01 --> Helper loaded: url_helper
+INFO - 2015-09-23 17:08:01 --> Helper loaded: view_helper
+INFO - 2015-09-23 17:08:01 --> Helper loaded: user_helper
+INFO - 2015-09-23 17:08:01 --> Helper loaded: html_helper
+INFO - 2015-09-23 17:08:01 --> Helper loaded: loader_helper
+INFO - 2015-09-23 17:08:01 --> Helper loaded: utilities_helper
+INFO - 2015-09-23 17:08:01 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-23 17:08:01 --> Database Driver Class Initialized
+INFO - 2015-09-23 17:08:01 --> Controller Class Initialized
+INFO - 2015-09-23 17:08:01 --> Final output sent to browser
+DEBUG - 2015-09-23 17:08:01 --> Total execution time: 0.0370
+INFO - 2015-09-23 17:08:19 --> Config Class Initialized
+INFO - 2015-09-23 17:08:19 --> Hooks Class Initialized
+DEBUG - 2015-09-23 17:08:19 --> UTF-8 Support Enabled
+INFO - 2015-09-23 17:08:19 --> Utf8 Class Initialized
+INFO - 2015-09-23 17:08:19 --> URI Class Initialized
+INFO - 2015-09-23 17:08:19 --> Router Class Initialized
+INFO - 2015-09-23 17:08:19 --> Output Class Initialized
+INFO - 2015-09-23 17:08:19 --> Security Class Initialized
+DEBUG - 2015-09-23 17:08:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 17:08:19 --> Input Class Initialized
+INFO - 2015-09-23 17:08:19 --> Language Class Initialized
+INFO - 2015-09-23 17:08:19 --> Language Class Initialized
+INFO - 2015-09-23 17:08:19 --> Config Class Initialized
+INFO - 2015-09-23 17:08:19 --> Loader Class Initialized
+INFO - 2015-09-23 17:08:19 --> Helper loaded: url_helper
+INFO - 2015-09-23 17:08:19 --> Helper loaded: view_helper
+INFO - 2015-09-23 17:08:19 --> Helper loaded: user_helper
+INFO - 2015-09-23 17:08:19 --> Helper loaded: html_helper
+INFO - 2015-09-23 17:08:19 --> Helper loaded: loader_helper
+INFO - 2015-09-23 17:08:19 --> Helper loaded: utilities_helper
+INFO - 2015-09-23 17:08:19 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-23 17:08:19 --> Database Driver Class Initialized
+INFO - 2015-09-23 17:08:19 --> Controller Class Initialized
+INFO - 2015-09-23 17:08:19 --> Final output sent to browser
+DEBUG - 2015-09-23 17:08:19 --> Total execution time: 0.0368
+INFO - 2015-09-23 17:08:59 --> Config Class Initialized
+INFO - 2015-09-23 17:08:59 --> Hooks Class Initialized
+DEBUG - 2015-09-23 17:08:59 --> UTF-8 Support Enabled
+INFO - 2015-09-23 17:08:59 --> Utf8 Class Initialized
+INFO - 2015-09-23 17:08:59 --> URI Class Initialized
+INFO - 2015-09-23 17:08:59 --> Router Class Initialized
+INFO - 2015-09-23 17:08:59 --> Output Class Initialized
+INFO - 2015-09-23 17:08:59 --> Security Class Initialized
+DEBUG - 2015-09-23 17:08:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 17:08:59 --> Input Class Initialized
+INFO - 2015-09-23 17:08:59 --> Language Class Initialized
+INFO - 2015-09-23 17:08:59 --> Language Class Initialized
+INFO - 2015-09-23 17:08:59 --> Config Class Initialized
+INFO - 2015-09-23 17:08:59 --> Loader Class Initialized
+INFO - 2015-09-23 17:08:59 --> Helper loaded: url_helper
+INFO - 2015-09-23 17:08:59 --> Helper loaded: view_helper
+INFO - 2015-09-23 17:08:59 --> Helper loaded: user_helper
+INFO - 2015-09-23 17:08:59 --> Helper loaded: html_helper
+INFO - 2015-09-23 17:08:59 --> Helper loaded: loader_helper
+INFO - 2015-09-23 17:08:59 --> Helper loaded: utilities_helper
+INFO - 2015-09-23 17:08:59 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-23 17:08:59 --> Database Driver Class Initialized
+INFO - 2015-09-23 17:08:59 --> Controller Class Initialized
+INFO - 2015-09-23 17:08:59 --> Final output sent to browser
+DEBUG - 2015-09-23 17:08:59 --> Total execution time: 0.0376
+INFO - 2015-09-23 17:08:59 --> Config Class Initialized
+INFO - 2015-09-23 17:08:59 --> Hooks Class Initialized
+DEBUG - 2015-09-23 17:08:59 --> UTF-8 Support Enabled
+INFO - 2015-09-23 17:08:59 --> Utf8 Class Initialized
+INFO - 2015-09-23 17:08:59 --> URI Class Initialized
+INFO - 2015-09-23 17:08:59 --> Router Class Initialized
+INFO - 2015-09-23 17:08:59 --> Output Class Initialized
+INFO - 2015-09-23 17:08:59 --> Security Class Initialized
+DEBUG - 2015-09-23 17:08:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 17:08:59 --> Input Class Initialized
+INFO - 2015-09-23 17:08:59 --> Language Class Initialized
+INFO - 2015-09-23 17:08:59 --> Language Class Initialized
+INFO - 2015-09-23 17:08:59 --> Config Class Initialized
+INFO - 2015-09-23 17:08:59 --> Loader Class Initialized
+INFO - 2015-09-23 17:08:59 --> Helper loaded: url_helper
+INFO - 2015-09-23 17:08:59 --> Helper loaded: view_helper
+INFO - 2015-09-23 17:08:59 --> Helper loaded: user_helper
+INFO - 2015-09-23 17:08:59 --> Helper loaded: html_helper
+INFO - 2015-09-23 17:08:59 --> Helper loaded: loader_helper
+INFO - 2015-09-23 17:08:59 --> Helper loaded: utilities_helper
+INFO - 2015-09-23 17:08:59 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-23 17:08:59 --> Database Driver Class Initialized
+INFO - 2015-09-23 17:08:59 --> Controller Class Initialized
+INFO - 2015-09-23 17:08:59 --> Final output sent to browser
+DEBUG - 2015-09-23 17:08:59 --> Total execution time: 0.0321
+INFO - 2015-09-23 17:09:24 --> Config Class Initialized
+INFO - 2015-09-23 17:09:24 --> Hooks Class Initialized
+DEBUG - 2015-09-23 17:09:24 --> UTF-8 Support Enabled
+INFO - 2015-09-23 17:09:24 --> Utf8 Class Initialized
+INFO - 2015-09-23 17:09:24 --> URI Class Initialized
+INFO - 2015-09-23 17:09:24 --> Router Class Initialized
+INFO - 2015-09-23 17:09:24 --> Output Class Initialized
+INFO - 2015-09-23 17:09:24 --> Security Class Initialized
+DEBUG - 2015-09-23 17:09:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 17:09:24 --> Input Class Initialized
+INFO - 2015-09-23 17:09:24 --> Language Class Initialized
+INFO - 2015-09-23 17:09:24 --> Language Class Initialized
+INFO - 2015-09-23 17:09:24 --> Config Class Initialized
+INFO - 2015-09-23 17:09:24 --> Loader Class Initialized
+INFO - 2015-09-23 17:09:24 --> Helper loaded: url_helper
+INFO - 2015-09-23 17:09:24 --> Helper loaded: view_helper
+INFO - 2015-09-23 17:09:24 --> Helper loaded: user_helper
+INFO - 2015-09-23 17:09:24 --> Helper loaded: html_helper
+INFO - 2015-09-23 17:09:24 --> Helper loaded: loader_helper
+INFO - 2015-09-23 17:09:24 --> Helper loaded: utilities_helper
+INFO - 2015-09-23 17:09:24 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-23 17:09:24 --> Database Driver Class Initialized
+INFO - 2015-09-23 17:09:24 --> Controller Class Initialized
+INFO - 2015-09-23 17:09:24 --> Final output sent to browser
+DEBUG - 2015-09-23 17:09:24 --> Total execution time: 0.0355
+INFO - 2015-09-23 17:11:49 --> Config Class Initialized
+INFO - 2015-09-23 17:11:49 --> Hooks Class Initialized
+DEBUG - 2015-09-23 17:11:49 --> UTF-8 Support Enabled
+INFO - 2015-09-23 17:11:49 --> Utf8 Class Initialized
+INFO - 2015-09-23 17:11:49 --> URI Class Initialized
+INFO - 2015-09-23 17:11:49 --> Router Class Initialized
+INFO - 2015-09-23 17:11:49 --> Output Class Initialized
+INFO - 2015-09-23 17:11:49 --> Security Class Initialized
+DEBUG - 2015-09-23 17:11:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 17:11:49 --> Input Class Initialized
+INFO - 2015-09-23 17:11:49 --> Language Class Initialized
+INFO - 2015-09-23 17:11:49 --> Language Class Initialized
+INFO - 2015-09-23 17:11:49 --> Config Class Initialized
+INFO - 2015-09-23 17:11:49 --> Loader Class Initialized
+INFO - 2015-09-23 17:11:49 --> Helper loaded: url_helper
+INFO - 2015-09-23 17:11:49 --> Helper loaded: view_helper
+INFO - 2015-09-23 17:11:49 --> Helper loaded: user_helper
+INFO - 2015-09-23 17:11:49 --> Helper loaded: html_helper
+INFO - 2015-09-23 17:11:49 --> Helper loaded: loader_helper
+INFO - 2015-09-23 17:11:49 --> Helper loaded: utilities_helper
+INFO - 2015-09-23 17:11:49 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-23 17:11:49 --> Database Driver Class Initialized
+INFO - 2015-09-23 17:11:49 --> Controller Class Initialized
+INFO - 2015-09-23 17:11:49 --> Final output sent to browser
+DEBUG - 2015-09-23 17:11:49 --> Total execution time: 0.0374
+INFO - 2015-09-23 17:16:02 --> Config Class Initialized
+INFO - 2015-09-23 17:16:02 --> Hooks Class Initialized
+DEBUG - 2015-09-23 17:16:02 --> UTF-8 Support Enabled
+INFO - 2015-09-23 17:16:02 --> Utf8 Class Initialized
+INFO - 2015-09-23 17:16:02 --> URI Class Initialized
+INFO - 2015-09-23 17:16:02 --> Router Class Initialized
+INFO - 2015-09-23 17:16:02 --> Output Class Initialized
+INFO - 2015-09-23 17:16:02 --> Security Class Initialized
+DEBUG - 2015-09-23 17:16:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 17:16:02 --> Input Class Initialized
+INFO - 2015-09-23 17:16:02 --> Language Class Initialized
+INFO - 2015-09-23 17:16:02 --> Language Class Initialized
+INFO - 2015-09-23 17:16:02 --> Config Class Initialized
+INFO - 2015-09-23 17:16:02 --> Loader Class Initialized
+INFO - 2015-09-23 17:16:02 --> Helper loaded: url_helper
+INFO - 2015-09-23 17:16:02 --> Helper loaded: view_helper
+INFO - 2015-09-23 17:16:02 --> Helper loaded: user_helper
+INFO - 2015-09-23 17:16:02 --> Helper loaded: html_helper
+INFO - 2015-09-23 17:16:02 --> Helper loaded: loader_helper
+INFO - 2015-09-23 17:16:02 --> Helper loaded: utilities_helper
+INFO - 2015-09-23 17:16:02 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-23 17:16:02 --> Database Driver Class Initialized
+INFO - 2015-09-23 17:16:02 --> Controller Class Initialized
+INFO - 2015-09-23 17:16:02 --> Final output sent to browser
+DEBUG - 2015-09-23 17:16:02 --> Total execution time: 0.0409
+INFO - 2015-09-23 17:16:03 --> Config Class Initialized
+INFO - 2015-09-23 17:16:03 --> Hooks Class Initialized
+DEBUG - 2015-09-23 17:16:03 --> UTF-8 Support Enabled
+INFO - 2015-09-23 17:16:03 --> Utf8 Class Initialized
+INFO - 2015-09-23 17:16:03 --> URI Class Initialized
+INFO - 2015-09-23 17:16:03 --> Router Class Initialized
+INFO - 2015-09-23 17:16:03 --> Output Class Initialized
+INFO - 2015-09-23 17:16:03 --> Security Class Initialized
+DEBUG - 2015-09-23 17:16:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 17:16:03 --> Input Class Initialized
+INFO - 2015-09-23 17:16:03 --> Language Class Initialized
+INFO - 2015-09-23 17:16:03 --> Language Class Initialized
+INFO - 2015-09-23 17:16:03 --> Config Class Initialized
+INFO - 2015-09-23 17:16:03 --> Loader Class Initialized
+INFO - 2015-09-23 17:16:03 --> Helper loaded: url_helper
+INFO - 2015-09-23 17:16:03 --> Helper loaded: view_helper
+INFO - 2015-09-23 17:16:03 --> Helper loaded: user_helper
+INFO - 2015-09-23 17:16:03 --> Helper loaded: html_helper
+INFO - 2015-09-23 17:16:03 --> Helper loaded: loader_helper
+INFO - 2015-09-23 17:16:03 --> Helper loaded: utilities_helper
+INFO - 2015-09-23 17:16:03 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-23 17:16:03 --> Database Driver Class Initialized
+INFO - 2015-09-23 17:16:03 --> Controller Class Initialized
+INFO - 2015-09-23 17:16:03 --> Final output sent to browser
+DEBUG - 2015-09-23 17:16:03 --> Total execution time: 0.0491
+INFO - 2015-09-23 17:16:03 --> Config Class Initialized
+INFO - 2015-09-23 17:16:03 --> Hooks Class Initialized
+DEBUG - 2015-09-23 17:16:03 --> UTF-8 Support Enabled
+INFO - 2015-09-23 17:16:03 --> Utf8 Class Initialized
+INFO - 2015-09-23 17:16:03 --> URI Class Initialized
+INFO - 2015-09-23 17:16:03 --> Router Class Initialized
+INFO - 2015-09-23 17:16:03 --> Output Class Initialized
+INFO - 2015-09-23 17:16:03 --> Security Class Initialized
+DEBUG - 2015-09-23 17:16:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 17:16:03 --> Input Class Initialized
+INFO - 2015-09-23 17:16:03 --> Language Class Initialized
+INFO - 2015-09-23 17:16:03 --> Language Class Initialized
+INFO - 2015-09-23 17:16:03 --> Config Class Initialized
+INFO - 2015-09-23 17:16:03 --> Loader Class Initialized
+INFO - 2015-09-23 17:16:03 --> Helper loaded: url_helper
+INFO - 2015-09-23 17:16:03 --> Helper loaded: view_helper
+INFO - 2015-09-23 17:16:03 --> Helper loaded: user_helper
+INFO - 2015-09-23 17:16:03 --> Helper loaded: html_helper
+INFO - 2015-09-23 17:16:03 --> Helper loaded: loader_helper
+INFO - 2015-09-23 17:16:03 --> Helper loaded: utilities_helper
+INFO - 2015-09-23 17:16:03 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-23 17:16:03 --> Database Driver Class Initialized
+INFO - 2015-09-23 17:16:03 --> Controller Class Initialized
+INFO - 2015-09-23 17:16:03 --> Final output sent to browser
+DEBUG - 2015-09-23 17:16:03 --> Total execution time: 0.0373
+INFO - 2015-09-23 17:16:04 --> Config Class Initialized
+INFO - 2015-09-23 17:16:04 --> Hooks Class Initialized
+DEBUG - 2015-09-23 17:16:04 --> UTF-8 Support Enabled
+INFO - 2015-09-23 17:16:04 --> Utf8 Class Initialized
+INFO - 2015-09-23 17:16:04 --> URI Class Initialized
+INFO - 2015-09-23 17:16:04 --> Router Class Initialized
+INFO - 2015-09-23 17:16:04 --> Output Class Initialized
+INFO - 2015-09-23 17:16:04 --> Security Class Initialized
+DEBUG - 2015-09-23 17:16:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 17:16:04 --> Input Class Initialized
+INFO - 2015-09-23 17:16:04 --> Language Class Initialized
+INFO - 2015-09-23 17:16:04 --> Language Class Initialized
+INFO - 2015-09-23 17:16:04 --> Config Class Initialized
+INFO - 2015-09-23 17:16:04 --> Loader Class Initialized
+INFO - 2015-09-23 17:16:04 --> Helper loaded: url_helper
+INFO - 2015-09-23 17:16:04 --> Helper loaded: view_helper
+INFO - 2015-09-23 17:16:04 --> Helper loaded: user_helper
+INFO - 2015-09-23 17:16:04 --> Helper loaded: html_helper
+INFO - 2015-09-23 17:16:04 --> Helper loaded: loader_helper
+INFO - 2015-09-23 17:16:04 --> Helper loaded: utilities_helper
+INFO - 2015-09-23 17:16:04 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-23 17:16:04 --> Database Driver Class Initialized
+INFO - 2015-09-23 17:16:04 --> Controller Class Initialized
+INFO - 2015-09-23 17:16:04 --> Final output sent to browser
+DEBUG - 2015-09-23 17:16:04 --> Total execution time: 0.0387
+INFO - 2015-09-23 17:20:53 --> Config Class Initialized
+INFO - 2015-09-23 17:20:53 --> Hooks Class Initialized
+DEBUG - 2015-09-23 17:20:53 --> UTF-8 Support Enabled
+INFO - 2015-09-23 17:20:53 --> Utf8 Class Initialized
+INFO - 2015-09-23 17:20:53 --> URI Class Initialized
+INFO - 2015-09-23 17:20:53 --> Router Class Initialized
+INFO - 2015-09-23 17:20:53 --> Output Class Initialized
+INFO - 2015-09-23 17:20:53 --> Security Class Initialized
+DEBUG - 2015-09-23 17:20:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 17:20:53 --> Input Class Initialized
+INFO - 2015-09-23 17:20:53 --> Language Class Initialized
+INFO - 2015-09-23 17:20:53 --> Language Class Initialized
+INFO - 2015-09-23 17:20:53 --> Config Class Initialized
+INFO - 2015-09-23 17:20:53 --> Loader Class Initialized
+INFO - 2015-09-23 17:20:53 --> Helper loaded: url_helper
+INFO - 2015-09-23 17:20:53 --> Helper loaded: view_helper
+INFO - 2015-09-23 17:20:53 --> Helper loaded: user_helper
+INFO - 2015-09-23 17:20:53 --> Helper loaded: html_helper
+INFO - 2015-09-23 17:20:53 --> Helper loaded: loader_helper
+INFO - 2015-09-23 17:20:53 --> Helper loaded: utilities_helper
+INFO - 2015-09-23 17:20:53 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-23 17:20:53 --> Database Driver Class Initialized
+INFO - 2015-09-23 17:20:53 --> Controller Class Initialized
+INFO - 2015-09-23 17:20:53 --> Final output sent to browser
+DEBUG - 2015-09-23 17:20:53 --> Total execution time: 0.0328
+INFO - 2015-09-23 17:22:32 --> Config Class Initialized
+INFO - 2015-09-23 17:22:32 --> Hooks Class Initialized
+DEBUG - 2015-09-23 17:22:32 --> UTF-8 Support Enabled
+INFO - 2015-09-23 17:22:32 --> Utf8 Class Initialized
+INFO - 2015-09-23 17:22:32 --> URI Class Initialized
+INFO - 2015-09-23 17:22:32 --> Router Class Initialized
+INFO - 2015-09-23 17:22:32 --> Output Class Initialized
+INFO - 2015-09-23 17:22:32 --> Security Class Initialized
+DEBUG - 2015-09-23 17:22:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-23 17:22:32 --> Input Class Initialized
+INFO - 2015-09-23 17:22:32 --> Language Class Initialized
+INFO - 2015-09-23 17:22:32 --> Language Class Initialized
+INFO - 2015-09-23 17:22:32 --> Config Class Initialized
+INFO - 2015-09-23 17:22:32 --> Loader Class Initialized
+INFO - 2015-09-23 17:22:32 --> Helper loaded: url_helper
+INFO - 2015-09-23 17:22:32 --> Helper loaded: view_helper
+INFO - 2015-09-23 17:22:32 --> Helper loaded: user_helper
+INFO - 2015-09-23 17:22:32 --> Helper loaded: html_helper
+INFO - 2015-09-23 17:22:32 --> Helper loaded: loader_helper
+INFO - 2015-09-23 17:22:32 --> Helper loaded: utilities_helper
+INFO - 2015-09-23 17:22:32 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-23 17:22:32 --> Database Driver Class Initialized
+INFO - 2015-09-23 17:22:32 --> Controller Class Initialized
+INFO - 2015-09-23 17:22:32 --> Final output sent to browser
+DEBUG - 2015-09-23 17:22:32 --> Total execution time: 0.0450
