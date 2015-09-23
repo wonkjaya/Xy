@@ -1,0 +1,91 @@
+<?php
+class Model_admin extends CI_Model{
+	function login(){
+		$user=$this->input->post('username');
+		$pass=$this->input->post('password');
+		$data=array('user_login'=>$user,'user_pass'=>MD5($pass));
+		$this->db->where($data);
+		$q=$this->db->get('users');
+		if($q->num_rows() >= 1){
+			$r=$q->row();
+			$sess_arr=array(
+				'user_login'=>$r->user_login,
+				'level'=>$r->user_level,
+				'disp_name'=>$r->display_name,
+				);
+			set_session('login',$sess_arr); // user_helper.php
+			return true;
+		}
+			return false;
+	}
+	// 26 jun 15
+	function forgotPassword($email=''){
+		if(isset($_GET['email'])) $email=$this->input->get('email');
+		if(empty($email))return cur_lang('login','ForgotErrEmpty');
+		
+		$this->db->limit(1);
+		$this->db->where('user_email',$email);
+		$data=$this->db->get('users');
+		$res=$data->row();
+		
+		$num=$data->num_rows();
+		if($num == 0) return cur_lang('login','ForgotErrNotRegister');
+		//if success
+		//setting config
+		$data=array(
+			'receipent'	=> $email,
+			'name'		=> $res->user_nicename,
+		);
+		send_email($data,'FP');//user_helper
+		return cur_lang('login','ForgotSuccessSent');
+		
+	}
+	
+	//28 jun 15 => edited 03 jul 15
+	function register(){
+		if($_GET){
+			$user_login=$this->input->get('user_name');
+			$user_email=$this->input->get('user_email');
+			$user_pass=$this->input->get('user_pass');
+			// check validation again
+			if(empty($user_pass))return ;
+				else $user_pass=md5($user_pass);
+			if($this->check_validation('user_email',$user_email) == false) return ;
+			if($this->check_validation('user_login',$user_login) == false) return ;
+			if($this->check_validation('password',$user_pass) == false) return ;
+			// jika semua bernilai benar maka proses input ke db
+			$array_data=array(
+				'user_login'=>$user_login,
+				'user_pass'=>$user_pass,
+				//'user_level'=>'80', // default dari database
+				'user_disp_name'=>$user_login,
+				'user_email'=>$user_email,
+				'user_url'=>site_url($user_login),
+				'user_registered'=>date('Y-m-d G:i:s'),
+				'user_activation_key'=>md5($user_email.$user_login.date('g:i:s')),
+				// 'user_status'=>'', mengambil default database yaitu "0"
+			);
+			print_r($array_data);
+			$this->db->insert('users',$array_data);
+			return true;
+		}
+	}
+	
+	//edited 03 jul 15
+	function check_validation($type,$value){ //type = field db
+		if($type == 'password'){ //jika password maka tidak menggunakan db
+			if(strlen($value) < 6) return false;
+		}
+		$this->db->where(array($type=>$value));
+		$q=$this->db->get('users');
+		$num=$q->num_rows();
+		if($num == 0) return false;
+		elseif($q->row()->status == 0) return cur_lang('login','alredy_registered');
+		elseif($q->row()->status == 1) return cur_lang('login','alredy_active_account');
+		elseif($q->row()->status == 2) return cur_lang('login','banned_account');
+			return true;
+	}
+
+}
+
+//end of file
