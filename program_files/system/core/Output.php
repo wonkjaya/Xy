@@ -508,9 +508,10 @@ class CI_Output {
 				$CI->profiler->set_sections($this->_profiler_sections);
 			}
 
-			// If the output data contains closing </body> and </html> tags
+			
 			// we will remove them and add them back after we insert the profile data
-			$output = preg_replace('|</body>.*?</html>|is', '', $output, -1, $count).$CI->profiler->run();
+			$output = preg_replace('|
+</body>.*?</html>|is', '', $output, -1, $count).$CI->profiler->run();
 			if ($count > 0)
 			{
 				$output .= '</body></html>';
