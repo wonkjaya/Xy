@@ -72,10 +72,10 @@ $meta_product=
 $images_product=
 	array(
 //		'LABEL'=>'FORM ELEMENT',
-		'Image1'=>'<img class="img-thumbnail" src="'.(isset($image1)?$image1:base_url('_assets/images/noimage.png')).'" width="50px">',
-		'Image2'=>'<img class="img-thumbnail" src="'.(isset($image2)?$image2:base_url('_assets/images/noimage.png')).'" width="50px">',
-		'Image3'=>'<img class="img-thumbnail" src="'.(isset($image3)?$image3:base_url('_assets/images/noimage.png')).'" width="50px">',
-		'Image4'=>'<img class="img-thumbnail" src="'.(isset($image4)?$image4:base_url('_assets/images/noimage.png')).'" width="50px">',
+		'Image1'=>'<img class="img-thumbnail" src="'.(isset($image1)?$image1:base_url('_assets/images/noimage.png')).'" width="50px" onclick="uploadPrev(1)">',
+		'Image2'=>'<img class="img-thumbnail" src="'.(isset($image2)?$image2:base_url('_assets/images/noimage.png')).'" width="50px" onclick="uploadPrev(2)">',
+		'Image3'=>'<img class="img-thumbnail" src="'.(isset($image3)?$image3:base_url('_assets/images/noimage.png')).'" width="50px" onclick="uploadPrev(3)">',
+		'Image4'=>'<img class="img-thumbnail" src="'.(isset($image4)?$image4:base_url('_assets/images/noimage.png')).'" width="50px" onclick="uploadPrev(4)">',
 	);
 
 ?>
@@ -150,4 +150,46 @@ $images_product=
 </div>
 
 <?=form_open()?>
-		
+
+<script type="text/javascript">
+	function uploadPrev(sess){
+		if(sess==1){}
+		$('#modal-upload').modal({
+			//upload using ajax
+			$.ajax({
+				url: "upload/"+sess, // Url to which the request is send
+				type: "POST",             // Type of request to be send, called as method
+				data: new FormData(this), // Data sent to server, a set of key/value pairs (i.e. form fields and values)
+				contentType: false,       // The content type used when sending data to the server.
+				cache: false,             // To unable request pages to be cached
+				processData:false,        // To send DOMDocument or non processed data file it is set to false
+				success: function(data)   // A function to be called if request succeeds
+					{
+						$('#loading').hide();
+						$("#message").html(data);
+					}
+			});
+		})
+	}
+</script>
+<div class="modal fade" id="modal-upload">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title">Upload Preview</h4>
+      </div>
+      <div class="modal-body">
+        <p>
+         <form id="uploadimage" action="" method="post" enctype="multipart/form-data">
+        	<input type="file" name="userfile" class="form-control" id="upload">
+         </form>
+        </p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
